@@ -1,0 +1,109 @@
+
+
+running FetchReach-v1, 0 noise, 1-goal
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -1.7840428817155898
+	average_initial_value: -1.8677258430160584
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -1.8296871278894846
+	average_initial_value: -1.822656516507268
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.9869999974966049
+	average_reward: -1.975587028102222
+	average_initial_value: -1.8427377835027874
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -1.8081859920000014
+	average_initial_value: -1.8055270432233812
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -1.7795871361599993
+	average_initial_value: -1.7443076064391057
+
+
+running FetchReach-v1, 0 noise, 2-goal ratio with delta-probability
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 1.0
+	average_reward: -1.773258376
+	average_initial_value: -1.7761202546730643
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9989999997615814
+	average_reward: -1.778161106500407
+	average_initial_value: -1.7309560767784709
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 1.0
+	average_reward: -1.7496456
+	average_initial_value: -1.8152115348447122
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 1.0
+	average_reward: -1.8328275599999997
+	average_initial_value: -1.770999729312956
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 1.0
+	average_reward: -1.8435655119999999
+	average_initial_value: -1.8826557857543222
+
+
+running FetchReach-v1, 0 noise, DDPG
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -1.9531033041599999
+	average_initial_value: -2.1313211229518054
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.9679999941587448
+	average_reward: -3.8296573532295235
+	average_initial_value: -3.8203711592853056
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -2.104772825248064
+	average_initial_value: -2.599710061125457
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -1.9505893840000001
+	average_initial_value: -2.044443279862404
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 1.0
+	average_reward: -1.988716040799999
+	average_initial_value: -2.1585763869248327
+
+
+running FetchReach-v1, 0 noise, δ-DDPG
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.2800000048428774
+	average_reward: -33.47553635128397
+	average_initial_value: 314.55789855957033
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.004000000059604645
+	average_reward: -47.18973935552156
+	average_initial_value: 259.1931834945678
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.6620000046491623
+	average_reward: -16.264834494673586
+	average_initial_value: 270.1783980484008
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.9399999922513962
+	average_reward: -4.332106774783685
+	average_initial_value: 278.3435209350587
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.11800000220537185
+	average_reward: -42.22223175795212
+	average_initial_value: 248.56119038391117
+

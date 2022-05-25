@@ -1,0 +1,16 @@
+
+running HandManipulatePen-v0, 0.001 noise, 2-goal ratio with delta-probability
+
+running HandManipulatePen-v0, 0.001 noise, 1-goal
+
+running HandManipulatePen-v0, 0.001 noise, 2-goal ratio with delta-probability
+
+running HandManipulatePen-v0, 0.001 noise, 1-goal
+
+running HandManipulatePen-v0, 0.001 noise, 2-goal ratio with delta-probability
+
+running HandManipulatePen-v0, 0.001 noise, 1-goal
+
+running HandManipulatePen-v0, 0.001 noise, 2-goal ratio with delta-probability
+
+running HandManipulatePen-v0, 0.001 noise, 1-goal

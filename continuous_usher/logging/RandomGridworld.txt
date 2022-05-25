@@ -1,0 +1,50 @@
+
+
+running RandomGridworld, 0 noise, 2-goal ratio with .11 offset
+
+running RandomGridworld, 0 noise, 2-goal ratio with delta-probability
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.4960000000000002
+	average_reward: -6.033302647587357
+	average_initial_value: -5.2150034273356205
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.4972000000000001
+	average_reward: -6.063762270575776
+	average_initial_value: -5.182044905117155
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.47759999999999997
+	average_reward: -6.08571284950952
+	average_initial_value: -5.3323419741556055
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.5237999999999999
+	average_reward: -5.923843636575136
+	average_initial_value: -5.162004309910539
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.4716000000000002
+	average_reward: -6.166565844693148
+	average_initial_value: -5.331782362113891
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.49620000000000025
+	average_reward: -6.014993401736806
+	average_initial_value: -5.381210866226256
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.509
+	average_reward: -6.013886411761994
+	average_initial_value: -5.014553501886129
+
+
+running RandomGridworld, 0 noise, 2-goal ratio with .11 offset
+
+running RandomGridworld, 0 noise, 2-goal ratio with .11 offset
+
+running RandomGridworld, 0 noise, 2-goal ratio with .11 offset
+
+running RandomGridworld, 0 noise, 1-goal
+
+running RandomGridworld, 0 noise, 2-goal ratio with delta-probability

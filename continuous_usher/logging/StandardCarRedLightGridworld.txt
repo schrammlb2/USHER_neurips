@@ -1,0 +1,259 @@
+
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.4852
+	average_reward: -6.893211858592394
+	average_initial_value: -4.957775889062884
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.38660000000000005
+	average_reward: -7.104987736313564
+	average_initial_value: -4.270688082551954
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.35420000000000007
+	average_reward: -7.361511507740012
+	average_initial_value: -4.720676117229462
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.37520000000000003
+	average_reward: -7.251612771254197
+	average_initial_value: -4.589834751605988
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.3996000000000003
+	average_reward: -7.2320733960296435
+	average_initial_value: -4.728292314577103
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.5054000000000001
+	average_reward: -7.168594791107396
+	average_initial_value: -4.541067851018907
+
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with .1 offset
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8560000000000002
+	average_reward: -5.983766941561398
+	average_initial_value: -6.180047757720946
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8610000000000003
+	average_reward: -6.129403429124722
+	average_initial_value: -6.291423330974578
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9104000000000002
+	average_reward: -5.8191320852590716
+	average_initial_value: -6.183482082939146
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9271999999999995
+	average_reward: -5.841164468360161
+	average_initial_value: -5.701619116306306
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9220000000000002
+	average_reward: -5.91822126144063
+	average_initial_value: -6.092350286006929
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9116000000000003
+	average_reward: -6.03436084944387
+	average_initial_value: -6.8747266661643955
+
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9011999999999999
+	average_reward: -5.881046150417411
+	average_initial_value: -6.694692652320863
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8856000000000003
+	average_reward: -5.834152275918674
+	average_initial_value: -6.4823636308670025
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8645999999999999
+	average_reward: -5.923934225297777
+	average_initial_value: -6.029971734428402
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8400000000000002
+	average_reward: -6.298941006903736
+	average_initial_value: -6.3334474126815765
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.84
+	average_reward: -6.106843684268902
+	average_initial_value: -6.0832136470317835
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8868000000000003
+	average_reward: -5.86530947711512
+	average_initial_value: -5.789190538978577
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.7320000000000002
+	average_reward: -6.450791319483074
+	average_initial_value: -6.243616504096984
+
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8980000000000001
+	average_reward: -5.824958832712765
+	average_initial_value: -6.342247375202179
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9067999999999995
+	average_reward: -5.988055782485861
+	average_initial_value: -6.396231410217285
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8742000000000002
+	average_reward: -5.8287453261727675
+	average_initial_value: -5.628309539270403
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8778000000000001
+	average_reward: -5.906665595159279
+	average_initial_value: -6.26437997188568
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8336000000000001
+	average_reward: -6.212877713822241
+	average_initial_value: -6.218059251022342
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8509999999999998
+	average_reward: -6.138085474612544
+	average_initial_value: -6.60534254808426
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8874
+	average_reward: -6.026990661409405
+	average_initial_value: -6.353442733192443
+
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0.0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0.0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0.0 noise, Old USHER
+
+running StandardCarRedLightGridworld, 0.0 noise, Old USHER
+
+running StandardCarRedLightGridworld, 0.0 noise, Old USHER
+
+running StandardCarRedLightGridworld, 0.0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0.0 noise, 1-goal
+
+running StandardCarRedLightGridworld, 0.0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0.0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0.0 noise, 2-goal ratio with delta-probability
+
+running StandardCarRedLightGridworld, 0.0 noise, 2-goal ratio with delta-probability

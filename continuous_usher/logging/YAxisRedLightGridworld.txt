@@ -1,0 +1,65 @@
+
+
+running YAxisRedLightGridworld, 0 noise, 1-goal
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.5943999999999999
+	average_reward: -6.678068850016969
+	average_initial_value: -5.727309218406674
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.7106
+	average_reward: -6.341358708689489
+	average_initial_value: -5.94234147439003
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.6129999999999999
+	average_reward: -6.584077027425097
+	average_initial_value: -5.6026096832752215
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.7378
+	average_reward: -6.418240524825278
+	average_initial_value: -5.643104032897948
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.6587999999999997
+	average_reward: -6.676879759346677
+	average_initial_value: -5.887990966272355
+
+action_noise: 0.0, 	two_goal: False, 
+	success_rate: 0.6631999999999998
+	average_reward: -6.491329004885373
+	average_initial_value: -5.4145275916099544
+
+
+running YAxisRedLightGridworld, 0 noise, 2-goal ratio with .1 offset
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8396000000000001
+	average_reward: -5.957680100493839
+	average_initial_value: -6.072448604106898
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.9116000000000003
+	average_reward: -5.782321734716041
+	average_initial_value: -6.5305738313674935
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8966
+	average_reward: -5.881263900418884
+	average_initial_value: -6.273771854400635
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8060000000000003
+	average_reward: -6.051637522264251
+	average_initial_value: -5.6990446576118465
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8436000000000001
+	average_reward: -6.097432379310576
+	average_initial_value: -6.395383586072921
+
+action_noise: 0.0, 	two_goal: True, 
+	success_rate: 0.8458
+	average_reward: -6.1580629974105685
+	average_initial_value: -6.977101277446748
+

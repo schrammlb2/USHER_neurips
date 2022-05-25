@@ -1,0 +1,3 @@
+
+
+running TorusFreeze6, 0 noise, 2-goal ratio with delta-probability

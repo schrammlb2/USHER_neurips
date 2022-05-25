@@ -1,0 +1,4 @@
+
+running HandReach-v0, 0.001 noise, 2-goal ratio with delta-probability
+
+running HandReach-v0, 0.001 noise, 1-goal
